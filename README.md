@@ -29,7 +29,7 @@ Backend (Spring Boot)
     <b>Backend (Primary)</b><br/>
     Spring Boot backend providing REST APIs and authentication<br/>
     <a href="https://github.com/Tumansh/pulsehub-backend" target="_blank">
-      https://github.com/yourusername/pulsehub-backend
+      https://github.com/Tumansh/pulsehub-backend
     </a>
   </li>
   <br/>
@@ -37,7 +37,7 @@ Backend (Spring Boot)
     <b>Frontend</b><br/>
     React-based user interface consuming backend APIs<br/>
     <a href="https://github.com/Tumansh/pulsehub-frontend" target="_blank">
-      https://github.com/yourusername/pulsehub-frontend
+      https://github.com/Tumansh/pulsehub-frontend
     </a>
   </li>
 </ul>
